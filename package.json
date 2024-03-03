@@ -1,0 +1,30 @@
+{
+  "name": "AkhiroBot",
+  "version": "1.0.3",
+  "description": "AkhiroBot by Rui, Francis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rui, Francis",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "@types/node": "^20.11.20",
+    "chalk": "4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "gradient-string": "^2.0.2",
+    "hercai": "^12.2.0",
+    "node-fetch": "^3.2.6",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7",
+    "https-proxy-agent": "^4.0.0",
+    "mqtt": "^3.0.0",
+    "npmlog": "^1.2.0",
+    "request": "^2.53.0",
+    "websocket-stream": "^5.5.0"
+  }
+}
